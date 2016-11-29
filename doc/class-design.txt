@@ -5,7 +5,7 @@
   Field
 
 フィールド変数
-  StartPosition,FieldSize,GoalPosition
+  startPosition,fieldSize,goalPosition
 
 メソッド
   getStartPosition(),getFieldSize(),getGoalPosition()
