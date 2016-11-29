@@ -1,11 +1,11 @@
-#クラス名
-##Field
+クラス名
+  Field
 
-#コンストラクタ
-##Field
+コンストラクタ
+  Field
 
-#フィールド変数
-##StartPosition,FieldSize,GoalPosition
+フィールド変数
+  StartPosition,FieldSize,GoalPosition
 
-#メソッド
-##getStartPosition(),getFieldSize(),getGoalPosition()
+メソッド
+  getStartPosition(),getFieldSize(),getGoalPosition()
