@@ -1,12 +1,12 @@
 クラス名
-　Player
+  Field
 
 コンストラクタ
-　Player
+  Field
 
 フィールド変数
-　currentPotion, pedometer
+  startPosition,fieldSize,goalPosition
 
 メソッド
-　getCurrentPotion(), setCurrentPotion(), getPedometer(), setPedometer()
+  getStartPosition(),getFieldSize(),getGoalPosition()
 
