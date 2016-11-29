@@ -9,3 +9,4 @@
 
 メソッド
 　getCurrentPotion(), setCurrentPotion(), getPedometer(), setPedometer()
+
