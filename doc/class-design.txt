@@ -1,0 +1,11 @@
+クラス名
+ Player
+
+コンストラクタ
+ Player
+
+フィールド変数
+ currentPotion, pedometer
+
+メソッド
+ getCurrentPotion(), setCurrentPotion(), getPedometer(), setPedometer()
