@@ -5,7 +5,20 @@
  Player
 
 フィールド変数
- currentPotion, pedometer
+ currentPosition, pedometer
 
 メソッド
- getCurrentPotion(), setCurrentPotion(), getPedometer(), setPedometer()
+ getCurrentPosition(), setCurrentPosition(), getPedometer(), setPedometer()
+
+
+ クラス名
+  Field
+
+  コンストラクタ
+  Field
+
+  フィールド変数
+  StartPosition,FieldSize,GoalPosition
+
+  メソッド
+   getStartPosition(),getFieldSize(),getGoalPosition()
