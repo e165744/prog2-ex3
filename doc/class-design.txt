@@ -9,4 +9,17 @@
 
 メソッド
   getStartPosition(),getFieldSize(),getGoalPosition()
-  
+
+
+
+クラス名
+  Player
+
+コンストラクタ
+  Player
+
+フィールド変数
+  currentPosition, pedometer
+
+メソッド
+  getCurrentPosition(), setCurrentPosition(), getPedometer(), setPedometer()
