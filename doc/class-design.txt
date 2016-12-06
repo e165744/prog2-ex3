@@ -9,3 +9,4 @@
 
 メソッド
   getStartPosition(),getFieldSize(),getGoalPosition()
+  
