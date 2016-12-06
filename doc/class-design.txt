@@ -3,6 +3,7 @@
 
 コンストラクタ
  Player
+ 
 
 フィールド変数
  currentPosition, pedometer
