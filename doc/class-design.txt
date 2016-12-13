@@ -10,8 +10,6 @@
 メソッド
   getStartPosition(),getFieldSize(),getGoalPosition()
 
-
-
 クラス名
   Player
 
@@ -23,6 +21,3 @@
 
 メソッド
   getCurrentPosition(), setCurrentPosition(), getPedometer(), setPedometer()
-
-
-  
