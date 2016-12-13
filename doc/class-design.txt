@@ -21,8 +21,5 @@
 フィールド変数
   currentPosition, pedometer
 
-メソッド
+メソッド*
   getCurrentPosition(), setCurrentPosition(), getPedometer(), setPedometer()
-
-
-  
