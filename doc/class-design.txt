@@ -1,25 +1,28 @@
 クラス名
- Player
+  Field
 
 コンストラクタ
- Player
-
+  Field
 
 フィールド変数
- currentPosition, pedometer
+  startPosition,fieldSize,goalPosition
 
 メソッド
- getCurrentPosition(), setCurrentPosition(), getPedometer(), setPedometer()
+  getStartPosition(),getFieldSize(),getGoalPosition()
 
 
- クラス名
-  Field
 
-  コンストラクタ
-  Field
+クラス名
+  Player
 
-  フィールド変数
-  StartPosition,FieldSize,GoalPosition
+コンストラクタ
+  Player
 
-  メソッド
-   getStartPosition(),getFieldSize(),getGoalPosition()
+フィールド変数
+  currentPosition, pedometer
+
+メソッド
+  getCurrentPosition(), setCurrentPosition(), getPedometer(), setPedometer()
+
+
+  
